@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAppTraining</string>
+    <string name="esperando">Esperando&#8230;</string>
+
+    <string name="imagen_descripcion">imagen</string>
+    <string name="miles_por_hora">miles/hora</string>
+    <string name="refrescar">Refresh</string>
+</resources>
